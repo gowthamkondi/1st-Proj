@@ -1,0 +1,3 @@
+# 1st-Proj
+
+This is a simple Password Generator Project... Any resembelence of the self-written code with help of open-source files are purely coincidential...
